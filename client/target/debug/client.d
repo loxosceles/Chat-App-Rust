@@ -1,0 +1,1 @@
+/mnt/DATA/CODE/tutorials/UDEMY/Rust_lang__The_complete_beginners_guide_2022/chat_app/client/target/debug/client: /mnt/DATA/CODE/tutorials/UDEMY/Rust_lang__The_complete_beginners_guide_2022/chat_app/client/src/main.rs
